@@ -1,3 +1,8 @@
+'''
+From An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution (http://arxiv.org/abs/1807.03247)
+Translated to pytorch.
+'''
+
 import torch
 import torch.nn as nn
 

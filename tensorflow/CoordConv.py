@@ -1,3 +1,7 @@
+'''
+From An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution (http://arxiv.org/abs/1807.03247)
+'''
+
 from tensorflow.python.layers import base
 import tensorflow as tf
 
